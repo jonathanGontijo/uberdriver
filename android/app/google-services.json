@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "173120249003",
+    "firebase_url": "https://multi-store-77e7d-default-rtdb.firebaseio.com",
+    "project_id": "multi-store-77e7d",
+    "storage_bucket": "multi-store-77e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173120249003:android:0a6b897e03f9d94adbabee",
+        "android_client_info": {
+          "package_name": "com.example.ube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzcuCK4Y8fb1pPQYF1TQAetPFWP_UXHAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173120249003:android:c05e97aaaba816aedbabee",
+        "android_client_info": {
+          "package_name": "com.example.uberdriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzcuCK4Y8fb1pPQYF1TQAetPFWP_UXHAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173120249003:android:6a9e3fa5f5fa8476dbabee",
+        "android_client_info": {
+          "package_name": "com.example.ubere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzcuCK4Y8fb1pPQYF1TQAetPFWP_UXHAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
